@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Image Cursor",
+  "author": "Tej",
+  "version": "1.0.0",
+  "description": "Gives custom image as cursor",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
