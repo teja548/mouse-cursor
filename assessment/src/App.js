@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import cursorImg from './cursor.png';
+import cursorImg from './logo512.png';
 
 const useMousePosition = () => {
   const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
